@@ -190,3 +190,5 @@ Not: Bu bir ödev değil, **tekrar filtresidir**. Bir soruda takılırsan ilgili
 
 **Hafta 2 — OOP olgunluğu, SOLID, Design Patterns.**
 Bu haftanın son maddesi (interface ve bağımlılık) doğrudan oraya bağlanıyor. Hafta 2 biraz daha soyut geçecek; kod yazmaktan çok "bu kodu neden böyle bölüyoruz" sorusunun cevabı olacak. Bootcamp'in 10, 11 ve 12 numaralı mimari projelerinin tamamı o haftaya dayanıyor.
+
+→ `../Hafta-02-OOP-SOLID/01-OOP-Pratikte.md` (Hafta 2 · Pazartesi)
